@@ -15,3 +15,7 @@
 
 ### 🏆 Victory Screen
 ![Victory](./screenshots/victory-screen.png)
+
+## 🎮 Gameplay Preview
+
+![Demo](./screenshots/demo.gif)
