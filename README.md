@@ -3,6 +3,14 @@ Professional Tic Tac Toe game built with Python &amp; Pygame featuring Minimax A
 
 ## 📸 Screenshots
 
-![Menu](./screenshots/menu.png)
+### 🎮 Main Menu
+![Main Menu](./screenshots/Screenshot%202026-04-28%20150428.png)
 
-![Gameplay](./screenshots/gameplay.png)
+### 🤖 AI Gameplay
+![Gameplay](./screenshots/Screenshot%202026-04-28%20150544.png)
+
+### ⚡ Neon UI
+![Neon UI](./screenshots/Screenshot%202026-04-28%20150607.png)
+
+### 📱 Responsive Design
+![Responsive](./screenshots/Screenshot%202026-04-28%20150639.png)
