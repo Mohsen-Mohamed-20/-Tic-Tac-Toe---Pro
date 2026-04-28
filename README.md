@@ -1,3 +1,7 @@
+## 🎮 Gameplay Preview
+
+![Demo](./screenshots/demo.gif)
+
 ## 📸 Screenshots
 
 ### 🎮 Main Menu
@@ -16,6 +20,4 @@
 ### 🏆 Victory Screen
 ![Victory](./screenshots/victory-screen.png)
 
-## 🎮 Gameplay Preview
 
-![Demo](./screenshots/demo.gif)
