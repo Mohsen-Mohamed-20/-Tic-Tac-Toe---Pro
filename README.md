@@ -19,11 +19,5 @@
 
 ### 🏆 Victory Screen
 ![Victory](./screenshots/victory-screen.png)
-## ⚡ Installation
 
-```bash
-git clone https://github.com/Mohsen-Mohamed-20/Tic-Tac-Toe-Pro.git
-cd Tic-Tac-Toe-Pro
-pip install pygame
-python TicTacToe.py
 
