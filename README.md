@@ -1,16 +1,13 @@
-# -Tic-Tac-Toe---Pro
-Professional Tic Tac Toe game built with Python &amp; Pygame featuring Minimax AI, neon UI, animations, sound effects, and multiple game modes.
-
 ## 📸 Screenshots
 
 ### 🎮 Main Menu
-![Main Menu](./screenshots/Screenshot%202026-04-28%20150428.png)
+![Main Menu](./screenshots/main-menu.png)
 
-### 🤖 AI Gameplay
-![Gameplay](./screenshots/Screenshot%202026-04-28%20150544.png)
+### 🤖 Minimax AI In Action
+![Gameplay](./screenshots/minimax-gameplay.png)
 
-### ⚡ Neon UI
-![Neon UI](./screenshots/Screenshot%202026-04-28%20150607.png)
+### 🧠 AI vs AI Demo
+![AI Battle](./screenshots/ai-battle-1.png)
 
-### 📱 Responsive Design
-![Responsive](./screenshots/Screenshot%202026-04-28%20150639.png)
+### 🏆 Victory Screen
+![Victory](./screenshots/victory-screen.png)
